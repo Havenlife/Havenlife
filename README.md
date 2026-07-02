@@ -1,13 +1,54 @@
-<h1 align="center">Hi 👋, I'm havenlife</h1>
-<h3 align="center">저는 풀스택을 배울려고하는 평범한 사람입니다.</h3>
+# 👋 안녕하세요, 백엔드/풀스택 개발자 [본인 이름 또는 닉네임]입니다!
 
-- 🌱 I’m currently learning **풀스택 웹개발**
+데이터의 흐름을 제어하고, 안정적인 비즈니스 로직을 설계하는 과정에서 즐거움을 느끼는 개발자입니다.  
+복잡한 관계형 데이터베이스(RDB) 설계와 예외 처리를 고려한 견고한 웹 애플리케이션 개발에 집중하고 있습니다.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br>
+
+## 🛠 Tech Stacks
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### Frontend & Tools
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havenlife&show_icons=true&locale=en&layout=compact" alt="havenlife" /></p>
+---
+
+## 🚀 Featured Project
+
+### 🏨 전사적 객실 예약 및 대시보드 관리 시스템 (Full-Stack)
+> **소개**: 다중 제약조건과 엄격한 데이터 무결성을 기반으로 한 호텔/객실 예약 및 백오피스 관리 시스템입니다.
+
+* **주요 기능**
+  * **회원/관리자 권한 분리**: 일반 사용자의 객실 예약 및 결제 프로세스와 관리자의 공지사항/객실 상태 제어 기능 구현
+  * **실시간 상태 관리**: 공실(`空室`), 청소중, 예약됨 등 비즈니스 규칙에 따른 유기적인 객실 상태 변환 로직 설계
+  * **결제 및 메모 연동**: 예약 내역과 결제 정보 데이터 매핑 및 현장/온라인 결제 분기 처리
+* **💡 핵심 트러블 슈팅 및 결실**
+  * **데이터 무결성 확보**: 외래키(FK) 의존성을 고려한 데이터베이스 스크립트 고도화로 참조 무결성 오류(`ORA-02449` 등) 완벽 해결
+  * **정규식 및 제약조건 최적화**: DB 레벨에서 정규식(`REGEXP_LIKE`)과 `CHECK` 제약조건을 적극 활용하여 데이터 진입 단계부터 예외 필터링
+
+👉 [프로젝트 레포지토리 바로가기](본인의 프로젝트 레포지토리 링크)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[본인의깃허브ID]&show_icons=true&theme=radial" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 Contact & More
+* **Email**: [본인 이메일 주소]
+* **Blog**: [기술 블로그가 있다면 링크, 없다면 삭제]
