@@ -44,7 +44,7 @@
 ## 📊 GitHub 統計 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[taeseok511@gmail.com]&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Havenlife]&show_icons=true&theme=radial" alt="GitHub Stats" />
 </p>
 
 ---
